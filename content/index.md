@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: The Hitchhiker's Guide to Gaming
 ---
-## The index page
+## The Hitchhiker's Guide to Gaming
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This site is a personal knowledge base dedicated to my favorite hobby of over 25 years: PC gaming. Whether I am playing World of Warcraft (my  most common go-to), sailing in Sea of Thieves, jumping into Call of Duty, or chilling with a sim game—gaming is my favorite way to unwind, handle anxiety, and hang out with friends. I also love the hardware side of things and build my own computers—including a new rig I am building as an early graduation gift to myself!
 
 ## Editing pages
 
