@@ -5,6 +5,15 @@ title: The Hitchhiker's Guide to Gaming
 
 This site is a personal knowledge base dedicated to my favorite hobby of over 25 years: PC gaming. Whether I am playing World of Warcraft (my  most common go-to), sailing in Sea of Thieves, jumping into Call of Duty, or chilling with a sim game—gaming is my favorite way to unwind, handle anxiety, and hang out with friends. I also love the hardware side of things and build my own computers—including a new rig I am building as an early graduation gift to myself!
 
+## Main Categories
+
+- [[hardware-rig-building/index|Hardware & Rig Building]]
+- [[software-optimization/index|Software & Optimization]]
+- [[peripherals-aesthetics/index|Peripherals & Aesthetics]]
+- [[troubleshooting-maintenance/index|Troubleshooting & Maintenance]]
+- [[culture-communities/index|Culture & Communities]]
+
+
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
