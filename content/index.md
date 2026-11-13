@@ -7,10 +7,10 @@ This site is a personal knowledge base dedicated to my favorite hobby of over 25
 
 ## Main Categories
 
-- [[hardware-rig-building/index|Hardware & Rig Building]]
-- [[software-optimization/index|Software & Optimization]]
-- [[peripherals-aesthetics/index|Peripherals & Aesthetics]]
-- [[troubleshooting-maintenance/index|Troubleshooting & Maintenance]]
+- [[core-computer-hardware-upgrades/index|Core Computer Hardware & Upgrades]]
+- [[screens-accessories-setup/index|Screens, Accessories & Setups]]
+- [[software-performance/index|Software & Performance]]
+- [[fixes-errors-repairs/index|Errors, Fixes, & Repairs]]
 - [[culture-communities/index|Culture & Communities]]
 
 
