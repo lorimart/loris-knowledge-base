@@ -9,8 +9,8 @@ This site is a personal knowledge base dedicated to my favorite hobby of over 25
 
 - [[core-computer-hardware-upgrades/index|Core Computer Hardware & Upgrades]]
 - [[screens-accessories-setup/index|Screens, Accessories & Setups]]
-- [[software-performance/index|Software & Performance]]
-- [[fixes-errors-repairs/index|Errors, Fixes, & Repairs]]
+- [[pc-software-system-setup/index|PC Software & System Settings]]
+- [[game-performance-tweaks/index|Game Performance & Tweaks]]
 - [[culture-communities/index|Culture & Communities]]
 
 
