@@ -19,7 +19,7 @@ Using slightly more intake fans than exhaust fans creates **positive air pressur
 * **Fan Orientation:** Check the airflow arrows stamped on the fan frame. Air normally flows toward the side with the plastic support struts unless you buy reverse-blade intake fans.
 
 ![Full interior view of a white desktop PC case showing bottom and side intake fans alongside rear and top radiator exhaust fans around an MSI GeForce RTX graphics card](pc-case-fans.jpg)
-
+![[airflow-diagram.jpg]]
 
 ### Custom Fan Curves
 Default motherboard fan profiles often ramp up noisily during simple tasks. Set a custom **PWM fan curve** in your BIOS to keep fans around 30%–40% speed under 50°C, ramping up smoothly only when gaming temps cross 70°C.
